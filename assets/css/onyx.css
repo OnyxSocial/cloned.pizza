@@ -6,6 +6,13 @@ h1 {
     font-family: "Fredoka", sans-serif;
     text-align: center;
 }
+p {
+    font-family: "Fredoka", sans-serif;
+    text-align: center;
+}
+.plink {
+    font-family: "Fredoka", sans-serif;
+}
 .navbar {
     background-color: #00000060;
     overflow: hidden;
