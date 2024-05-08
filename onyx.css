@@ -6,3 +6,27 @@ h1 {
     font-family: "Fredoka", sans-serif;
     text-align: center;
 }
+.navbar {
+    background-color: #3498db;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.navbar img {
+    float: left;
+    padding: 10px;
+    height: 50px;
+}
+
+.navbar a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #2980b9;
+}
