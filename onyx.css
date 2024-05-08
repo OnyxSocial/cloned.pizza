@@ -7,7 +7,7 @@ h1 {
     text-align: center;
 }
 .navbar {
-    background-color: #3498db;
+    background-color: #00000060;
     overflow: hidden;
     border-radius: 20px;
 }
@@ -28,5 +28,5 @@ h1 {
 }
 
 .navbar a:hover {
-    background-color: #2980b9;
+    background-color: #3d3d3d34;
 }
