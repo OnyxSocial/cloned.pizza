@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Onyx - Homepage</title>
-        
+        <link rel="stylesheet" href="onyx.css">
     </head>
     <body>
         <h1>Welcome to Onyx, an open-source social media made by trust</h1>
